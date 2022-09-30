@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CV01_PART2.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+            <HorizontalStackLayout HorizontalOptions="Center" Spacing="25" Padding="30,0">
+                <Switch x:Name="sw1" IsToggled="false" /><Label Text="One"></Label>
+                </HorizontalStackLayout>
+            <HorizontalStackLayout HorizontalOptions="Center" Spacing="25" Padding="30,0">
+
+                <Switch x:Name="sw2" IsToggled="false" /><Label Text="Two"></Label>
+             </HorizontalStackLayout>
+            <HorizontalStackLayout HorizontalOptions="Center" Spacing="25" Padding="30,0">
+                <Switch x:Name="sw3" IsToggled="false" /><Label Text="Three"></Label>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout HorizontalOptions="Center" Spacing="25" Padding="30,0">
+                <Button Text="Go!" Clicked="ShowSelected"></Button>
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+

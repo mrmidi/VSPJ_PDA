@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CV01_PART2.app/Contents/MacOS/CV01_PART2">
+      <BCSymbolMapName>CV01_PART2.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CV01_PART2.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>CV01_PART2.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/mrmidi/VSPJ/PDA/VSPJ_PDA/CV01/CV01_PART2</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
