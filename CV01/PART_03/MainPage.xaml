@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PART_03.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Label
+                Text="Enter password:"
+                SemanticProperties.HeadingLevel="Level2"
+                FontSize="18"
+                HorizontalOptions="Center" />
+
+            <Entry x:Name="pw1"
+                   IsPassword="True"
+                   HorizontalOptions="Center"
+                   WidthRequest="300"
+                   Placeholder="Enter Password"></Entry>
+            <Entry x:Name="pw2"
+                   IsPassword="True"
+                   HorizontalOptions="Center"
+                   WidthRequest="300"
+                   Placeholder="Repeat Password"></Entry>
+            <Button Text="Check" HorizontalOptions="Center" Clicked="Button_Clicked"></Button>
+            <HorizontalStackLayout HorizontalOptions="Center" Padding="20" Spacing="25">
+                 <Label Text="Show password"></Label>
+                 <Switch x:Name="ShowPwSwitch" IsToggled="False" Toggled="ShowPasswords"></Switch>
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+

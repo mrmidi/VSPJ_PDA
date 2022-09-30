@@ -18859,9 +18859,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mrmidi/VSPJ/PDA/VSPJ_PDA/CV01/CV01_PART2/CV01_PART2.csproj",
-      "projectName": "CV01_PART2",
-      "projectPath": "/Users/mrmidi/VSPJ/PDA/VSPJ_PDA/CV01/CV01_PART2/CV01_PART2.csproj",
+      "projectUniqueName": "/Users/mrmidi/VSPJ/PDA/VSPJ_PDA/CV01/CV01_PART2/PART_02.csproj",
+      "projectName": "PART_02",
+      "projectPath": "/Users/mrmidi/VSPJ/PDA/VSPJ_PDA/CV01/CV01_PART2/PART_02.csproj",
       "packagesPath": "/Users/mrmidi/.nuget/packages/",
       "outputPath": "/Users/mrmidi/VSPJ/PDA/VSPJ_PDA/CV01/CV01_PART2/obj/",
       "projectStyle": "PackageReference",

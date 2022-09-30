@@ -1,4 +1,33 @@
-﻿<Properties StartupConfiguration="{662722D4-8EFD-4759-8668-1F33996221F7}|Default">
+﻿<Properties StartupConfiguration="{A606D5BF-B9A7-4D31-A801-1F0F60283BB0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PART_03/MainPage.xaml">
+    <Files>
+      <File FileName="CV01_PART2/MainPage.xaml.cs" />
+      <File FileName="CV01_PART2/MainPage.xaml" Line="11" Column="53" />
+      <File FileName="PART_03/MainPage.xaml.cs" Line="26" Column="3" />
+      <File FileName="PART_03/MainPage.xaml" Line="18" Column="31" />
+      <File FileName="PART_03/MauiProgram.cs" Line="12" Column="39" />
+      <File FileName="PART_03/Platforms/MacCatalyst/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CV01" expanded="True">
+            <Node name="PART_02" expanded="True" />
+            <Node name="PART_03" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CV01__PART2 FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.PART__02 PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.PART__03 PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
