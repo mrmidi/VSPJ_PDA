@@ -1,0 +1,17 @@
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\bin\Debug\net6.0-windows\CV3_1.exe
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\bin\Debug\net6.0-windows\CV3_1.deps.json
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\bin\Debug\net6.0-windows\CV3_1.runtimeconfig.json
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\bin\Debug\net6.0-windows\CV3_1.dll
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\bin\Debug\net6.0-windows\CV3_1.pdb
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\CV3_1.csproj.AssemblyReference.cache
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\CV3_1.Form1.resources
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\CV3_1.csproj.GenerateResource.cache
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\CV3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\CV3_1.AssemblyInfoInputs.cache
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\CV3_1.AssemblyInfo.cs
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\CV3_1.csproj.CoreCompileInputs.cache
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\CV3_1.dll
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\refint\CV3_1.dll
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\CV3_1.pdb
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\CV3_1.genruntimeconfig.cache
+C:\Users\kolenko\source\repos\CV3_1\CV3_1\obj\Debug\net6.0-windows\ref\CV3_1.dll
