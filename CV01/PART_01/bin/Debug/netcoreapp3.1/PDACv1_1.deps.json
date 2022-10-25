@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PDACv1_1/1.0.0": {
+        "runtime": {
+          "PDACv1_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PDACv1_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

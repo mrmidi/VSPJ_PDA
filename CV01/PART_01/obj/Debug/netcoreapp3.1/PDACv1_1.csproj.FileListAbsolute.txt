@@ -1,0 +1,14 @@
+C:\Users\HappySonic\source\repos\PDACv1_1\bin\Debug\netcoreapp3.1\PDACv1_1.exe
+C:\Users\HappySonic\source\repos\PDACv1_1\bin\Debug\netcoreapp3.1\PDACv1_1.deps.json
+C:\Users\HappySonic\source\repos\PDACv1_1\bin\Debug\netcoreapp3.1\PDACv1_1.runtimeconfig.json
+C:\Users\HappySonic\source\repos\PDACv1_1\bin\Debug\netcoreapp3.1\PDACv1_1.runtimeconfig.dev.json
+C:\Users\HappySonic\source\repos\PDACv1_1\bin\Debug\netcoreapp3.1\PDACv1_1.dll
+C:\Users\HappySonic\source\repos\PDACv1_1\bin\Debug\netcoreapp3.1\PDACv1_1.pdb
+C:\Users\HappySonic\source\repos\PDACv1_1\obj\Debug\netcoreapp3.1\PDACv1_1.csproj.AssemblyReference.cache
+C:\Users\HappySonic\source\repos\PDACv1_1\obj\Debug\netcoreapp3.1\PDACv1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HappySonic\source\repos\PDACv1_1\obj\Debug\netcoreapp3.1\PDACv1_1.AssemblyInfoInputs.cache
+C:\Users\HappySonic\source\repos\PDACv1_1\obj\Debug\netcoreapp3.1\PDACv1_1.AssemblyInfo.cs
+C:\Users\HappySonic\source\repos\PDACv1_1\obj\Debug\netcoreapp3.1\PDACv1_1.csproj.CoreCompileInputs.cache
+C:\Users\HappySonic\source\repos\PDACv1_1\obj\Debug\netcoreapp3.1\PDACv1_1.dll
+C:\Users\HappySonic\source\repos\PDACv1_1\obj\Debug\netcoreapp3.1\PDACv1_1.pdb
+C:\Users\HappySonic\source\repos\PDACv1_1\obj\Debug\netcoreapp3.1\PDACv1_1.genruntimeconfig.cache
