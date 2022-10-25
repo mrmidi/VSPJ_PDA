@@ -1,0 +1,346 @@
+[
+  {
+    "Name": "Anglický jazyk pro informatiky",
+    "SubjectType": "CJ",
+    "Semester": 1,
+    "Credits": 3,
+    "Exam": "ZA",
+    "Teacher": "Dostálová"
+  },
+  {
+    "Name": "Diskrétní struktury",
+    "SubjectType": "P",
+    "Semester": 1,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Kuklišová Pavelková"
+  },
+  {
+    "Name": "Efektivní komunikace a prezentace",
+    "SubjectType": "PV B",
+    "Semester": 1,
+    "Credits": 2,
+    "Exam": "ZA",
+    "Teacher": "Černá"
+  },
+  {
+    "Name": "Matematický seminář",
+    "SubjectType": "PV B",
+    "Semester": 1,
+    "Credits": 2,
+    "Exam": "ZA",
+    "Teacher": "Hanáček"
+  },
+  {
+    "Name": "Matematika",
+    "SubjectType": "P",
+    "Semester": 1,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Stolín"
+  },
+  {
+    "Name": "Tvorba internetových stránek",
+    "SubjectType": "P",
+    "Semester": 1,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Smrčka"
+  },
+  {
+    "Name": "Úvod do počítačových sítí",
+    "SubjectType": "P",
+    "Semester": 1,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Přibyl"
+  },
+  {
+    "Name": "Základy strukturovaného programování",
+    "SubjectType": "P",
+    "Semester": 1,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Richta"
+  },
+  {
+    "Name": "Architektura počítačů",
+    "SubjectType": "P",
+    "Semester": 2,
+    "Credits": 4,
+    "Exam": "ZA",
+    "Teacher": "Bílek"
+  },
+  {
+    "Name": "Ekonomika podniku",
+    "SubjectType": "PV B",
+    "Semester": 2,
+    "Credits": 3,
+    "Exam": "ZA",
+    "Teacher": "Lízalová"
+  },
+  {
+    "Name": "Navazující odborná angličtina pro informatiky",
+    "SubjectType": "PV B",
+    "Semester": 2,
+    "Credits": 2,
+    "Exam": "ZA",
+    "Teacher": "Dostálová"
+  },
+  {
+    "Name": "Návrh uživatelských rozhraní",
+    "SubjectType": "P",
+    "Semester": 2,
+    "Credits": 4,
+    "Exam": "Z,ZK",
+    "Teacher": "Jelínek"
+  },
+  {
+    "Name": "Objektově orientované programování",
+    "SubjectType": "P",
+    "Semester": 2,
+    "Credits": 5,
+    "Exam": "KZ",
+    "Teacher": "Richta"
+  },
+  {
+    "Name": "Softwarové inženýrství",
+    "SubjectType": "P",
+    "Semester": 2,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Richta"
+  },
+  {
+    "Name": "Statistika pro techniky",
+    "SubjectType": "P",
+    "Semester": 2,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Zámková"
+  },
+  {
+    "Name": "Úvod do databázových systémů",
+    "SubjectType": "P",
+    "Semester": 2,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Musil"
+  },
+  {
+    "Name": "Základy akademického psaní",
+    "SubjectType": "P",
+    "Semester": 2,
+    "Credits": 2,
+    "Exam": "ZA",
+    "Teacher": "Dostálová"
+  },
+  {
+    "Name": "Bezpečnost a ochrana dat",
+    "SubjectType": "P",
+    "Semester": 3,
+    "Credits": 4,
+    "Exam": "Z,ZK",
+    "Teacher": "Přibyl"
+  },
+  {
+    "Name": "Datové struktury a algoritmy",
+    "SubjectType": "P",
+    "Semester": 3,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Voráček"
+  },
+  {
+    "Name": "Elektronické obchodování",
+    "SubjectType": "PV B",
+    "Semester": 3,
+    "Credits": 3,
+    "Exam": "KZ",
+    "Teacher": "Frendlovská"
+  },
+  {
+    "Name": "Multimédia",
+    "SubjectType": "PV B",
+    "Semester": 3,
+    "Credits": 4,
+    "Exam": "KZ",
+    "Teacher": "Přibyl"
+  },
+  {
+    "Name": "Programování technických výpočtů",
+    "SubjectType": "PV A",
+    "Semester": 3,
+    "Credits": 3,
+    "Exam": "KZ",
+    "Teacher": "Šaclová"
+  },
+  {
+    "Name": "Programování v Javě",
+    "SubjectType": "PV A",
+    "Semester": 3,
+    "Credits": 4,
+    "Exam": "KZ",
+    "Teacher": "Musil"
+  },
+  {
+    "Name": "Řízení softwarových projektů",
+    "SubjectType": "P",
+    "Semester": 3,
+    "Credits": 4,
+    "Exam": "KZ",
+    "Teacher": "Voráček"
+  },
+  {
+    "Name": "Vývoj a provoz bezpilotních systémů",
+    "SubjectType": "PV B",
+    "Semester": 3,
+    "Credits": 4,
+    "Exam": "KZ",
+    "Teacher": "Dvořák"
+  },
+  {
+    "Name": "Webové technologie",
+    "SubjectType": "PV A",
+    "Semester": 3,
+    "Credits": 4,
+    "Exam": "Z,ZK",
+    "Teacher": "Smrčka"
+  },
+  {
+    "Name": "Multimediální a studiová technika",
+    "SubjectType": "PV B",
+    "Semester": 4,
+    "Credits": 4,
+    "Exam": "ZA",
+    "Teacher": "Bureš"
+  },
+  {
+    "Name": "Návrh a implementace databázových systémů",
+    "SubjectType": "PV A",
+    "Semester": 4,
+    "Credits": 4,
+    "Exam": "Z,ZK",
+    "Teacher": "Musil"
+  },
+  {
+    "Name": "Operační systémy",
+    "SubjectType": "P",
+    "Semester": 4,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Smrčka"
+  },
+  {
+    "Name": "Počítačová grafika a virtuální realita",
+    "SubjectType": "PV A",
+    "Semester": 4,
+    "Credits": 4,
+    "Exam": "Z,ZK",
+    "Teacher": "Jelínek"
+  },
+  {
+    "Name": "Podnikové informační systémy",
+    "SubjectType": "P",
+    "Semester": 4,
+    "Credits": 4,
+    "Exam": "KZ",
+    "Teacher": "Vojáčková"
+  },
+  {
+    "Name": "Pokročilejší technologie počítačových sítí",
+    "SubjectType": "PV B",
+    "Semester": 4,
+    "Credits": 4,
+    "Exam": "Z,ZK",
+    "Teacher": "Přibyl"
+  },
+  {
+    "Name": "Programovací jazyky a překladače",
+    "SubjectType": "P",
+    "Semester": 4,
+    "Credits": 5,
+    "Exam": "Z,ZK",
+    "Teacher": "Voráček"
+  },
+  {
+    "Name": "Programování desktopových aplikací",
+    "SubjectType": "PV A",
+    "Semester": 4,
+    "Credits": 4,
+    "Exam": "ZA",
+    "Teacher": "Musil"
+  },
+  {
+    "Name": "Serverová a desktopová administrace",
+    "SubjectType": "PV A",
+    "Semester": 4,
+    "Credits": 4,
+    "Exam": "ZA",
+    "Teacher": "Přibyl"
+  },
+  {
+    "Name": "Odborná praxe",
+    "SubjectType": "P",
+    "Semester": 5,
+    "Credits": 22,
+    "Exam": "ZA",
+    "Teacher": "Jirsa"
+  },
+  {
+    "Name": "Příprava na odbornou praxi",
+    "SubjectType": "P",
+    "Semester": 5,
+    "Credits": 2,
+    "Exam": "ZA",
+    "Teacher": "Jirsa"
+  },
+  {
+    "Name": "Seminář k bakalářské práci",
+    "SubjectType": "P",
+    "Semester": 5,
+    "Credits": 6,
+    "Exam": "ZA",
+    "Teacher": "Dostálová"
+  },
+  {
+    "Name": "Technologie a standardy Průmyslu 4.0",
+    "SubjectType": "PV B",
+    "Semester": 5,
+    "Credits": 4,
+    "Exam": "KZ",
+    "Teacher": "Zezulka"
+  },
+  {
+    "Name": "Bakalářská práce",
+    "SubjectType": "P",
+    "Semester": 6,
+    "Credits": 6,
+    "Exam": "ZA",
+    "Teacher": "Kuklišová Pavelková"
+  },
+  {
+    "Name": "Geografické informační systémy",
+    "SubjectType": "PV B",
+    "Semester": 6,
+    "Credits": 4,
+    "Exam": "Z,ZK",
+    "Teacher": "Smrčka"
+  },
+  {
+    "Name": "Pokročilé programovací techniky",
+    "SubjectType": "PV A",
+    "Semester": 6,
+    "Credits": 4,
+    "Exam": "KZ",
+    "Teacher": "Musil"
+  },
+  {
+    "Name": "Programování pro mobilní platformy",
+    "SubjectType": "PV A",
+    "Semester": 6,
+    "Credits": 4,
+    "Exam": "KZ",
+    "Teacher": "Musil"
+  }
+  ]
